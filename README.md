@@ -85,7 +85,7 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
-![image](https://github.com/user-attachments/assets/36ce4a64-7944-47bd-849b-e4658665ffe9)
+![image](https://github.com/user-attachments/assets/58a38edc-ebe8-4d01-90f7-77ea728a8bd1)
 # Results
 Thus the FSK(Frequency shift keying) is performed using Python.
 # Hardware experiment output waveform.
